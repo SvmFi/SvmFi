@@ -1,4 +1,7 @@
-### Hi there 👋
+### Links
+
+
+[Algorithm](https://github.com/Mihir1101/ProFi/tree/main/Algorithm)
 
 <!--
 **SvmFi/SvmFi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
